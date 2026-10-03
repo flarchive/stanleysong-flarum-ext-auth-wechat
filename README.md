@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of stanleysong/flarum-ext-auth-wechat.** Not for installation: use [Packagist](https://packagist.org/packages/stanleysong/flarum-ext-auth-wechat) or the [upstream repository](https://github.com/StanleySong/flarum-ext-auth-wechat).
 
-**0** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/stanleysong-flarum-ext-auth-wechat/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**2** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/stanleysong-flarum-ext-auth-wechat/tree/archive/v1.0.3) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.2` | 2017-06-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/stanleysong-flarum-ext-auth-wechat/tree/archive/v1.0.2) |
+| `1.0.3` | 2017-06-18 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/stanleysong-flarum-ext-auth-wechat/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/stanleysong-flarum-ext-auth-wechat.json](https://github.com/flarchive/archive-index/blob/main/packages/stanleysong-flarum-ext-auth-wechat.json)
 
